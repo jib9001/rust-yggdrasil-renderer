@@ -1,0 +1,8 @@
+/home/connor/Development/yggdrasil/engine_tester/target/debug/build/glfw-sys-eb3b2b3b3977c840/out/lib/libglfw3.a
+/home/connor/Development/yggdrasil/engine_tester/target/debug/build/glfw-sys-eb3b2b3b3977c840/out/include/GLFW/glfw3.h
+/home/connor/Development/yggdrasil/engine_tester/target/debug/build/glfw-sys-eb3b2b3b3977c840/out/include/GLFW/glfw3native.h
+/home/connor/Development/yggdrasil/engine_tester/target/debug/build/glfw-sys-eb3b2b3b3977c840/out/lib/cmake/glfw3/glfw3Config.cmake
+/home/connor/Development/yggdrasil/engine_tester/target/debug/build/glfw-sys-eb3b2b3b3977c840/out/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+/home/connor/Development/yggdrasil/engine_tester/target/debug/build/glfw-sys-eb3b2b3b3977c840/out/lib/cmake/glfw3/glfw3Targets.cmake
+/home/connor/Development/yggdrasil/engine_tester/target/debug/build/glfw-sys-eb3b2b3b3977c840/out/lib/cmake/glfw3/glfw3Targets-debug.cmake
+/home/connor/Development/yggdrasil/engine_tester/target/debug/build/glfw-sys-eb3b2b3b3977c840/out/lib/pkgconfig/glfw3.pc
